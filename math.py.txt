@@ -20,3 +20,6 @@ def divide(x,y):
     #square imp
 def square(x):
    pass
+
+
+addition,multiplication
