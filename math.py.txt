@@ -1,0 +1,22 @@
+#addition
+def add(x,y):
+   return x+y 
+
+#subtraction
+def subtract(x,y):
+   return x-y  #on master branch
+
+#Multiplication
+def multiply(x,y):
+   return x*y            #multiply function
+
+#division
+def divide(x,y):
+   if y==0:            #on master
+     return 0
+   else:
+     return x/y
+
+    #square imp
+def square(x):
+   pass
