@@ -23,3 +23,5 @@ def square(x):
 
 
 addition,multiplication
+
+subtraction
